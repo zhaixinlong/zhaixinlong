@@ -5,7 +5,7 @@
 
 <br>
 
-I'm an independent developer and product builder exploring how AI can meaningfully improve the way we think, work, and live.
+I'm an developer and product builder exploring how AI can meaningfully improve the way we think, work, and live.
 
 - 🤖 Building AI agents, intelligent workflows, and AI-native products
 - 🧠 Exploring tools for personal growth, productivity, and knowledge management
@@ -22,7 +22,7 @@ I'm an independent developer and product builder exploring how AI can meaningful
 
 <br>
 
-我是一名独立开发者和产品创造者，关注 AI 如何真正改善我们的思考、工作与生活方式。
+我是一名开发者和产品创造者，关注 AI 如何真正改善我们的思考、工作与生活方式。
 
 - 🤖 构建 AI Agent、智能工作流与 AI 原生产品
 - 🧠 探索个人成长、效率提升与知识管理工具
